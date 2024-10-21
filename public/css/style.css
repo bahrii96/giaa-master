@@ -1,0 +1,38 @@
+.logo {
+  background-color: #fff;
+}
+
+.tagline h1 {
+  margin-left: 20px;
+  font-size: 22px;
+  margin-bottom: 0px;
+}
+
+#navbarHeader a {
+  color: #fff;
+}
+
+td {
+  font-size: 0.8em;
+}
+
+.nowrap {
+  white-space:nowrap;
+}
+
+.red,
+.error {
+  color: red;
+}
+
+.igroup {
+  width: 160px;
+}
+
+.igroup-exp {
+  width: 200px;
+}
+
+.refresh {
+  cursor: pointer;
+}
